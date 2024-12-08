@@ -1,0 +1,20 @@
+Lối chơi giữa người và người:
+    Nếu bạn muốn chơi một trò chơi mà cả hai người chơi đều là người:
+    Mở main.pytệp và sửa đổi các dòng sau:
+    SET_WHITE_AS_BOT = False
+    SET_BLACK_AS_BOT = False
+để lật bảng, hãy đi tớ engine.py và đặt:
+self.pl = false
+
+    Để lật bảng, hãy đi tới engine.pyvà đặt:
+    self.playerWantsToPlayAsBlack = False
+
+Lối chơi AI:
+    Nếu bạn muốn chơi trò chơi với AI:
+
+    Mở main.pytệp và sửa đổi các dòng sau:
+    SET_WHITE_AS_BOT = True
+    SET_BLACK_AS_BOT = False
+
+    Để lật bảng, hãy đi tới engine.pyvà đặt:
+    self.playerWantsToPlayAsBlack = False

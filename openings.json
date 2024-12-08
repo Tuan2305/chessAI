@@ -1,0 +1,139 @@
+{
+    "e2e4": {
+        "description": "King's Pawn Opening",
+        "responses": {
+            "e7e5": "Open Game",
+            "c7c5": "Sicilian Defense",
+            "e7e6": "French Defense"
+        }
+    },
+    "d2d4": {
+        "description": "Queen's Pawn Opening",
+        "responses": {
+            "d7d5": "Queen's Gambit Declined",
+            "g8f6": "Indian Defense"
+        }
+    },
+    "first_moves": {
+        "e4": {
+            "frequency": 1811858,
+            "win_rate": 38,
+            "draw_rate": 30,
+            "loss_rate": 32
+        },
+        "d4": {
+            "frequency": 1365421,
+            "win_rate": 39,
+            "draw_rate": 32,
+            "loss_rate": 29
+        },
+        "Nf3": {
+            "frequency": 393092,
+            "win_rate": 39,
+            "draw_rate": 34,
+            "loss_rate": 27
+        },
+        "c4": {
+            "frequency": 268989,
+            "win_rate": 39,
+            "draw_rate": 33,
+            "loss_rate": 28
+        },
+        "g3": {
+            "frequency": 30416,
+            "win_rate": 40,
+            "draw_rate": 32,
+            "loss_rate": 28
+        },
+        "b3": {
+            "frequency": 23109,
+            "win_rate": 43,
+            "draw_rate": 22,
+            "loss_rate": 35
+        },
+        "f4": {
+            "frequency": 13788,
+            "win_rate": 35,
+            "draw_rate": 23,
+            "loss_rate": 41
+        },
+        "Nc3": {
+            "frequency": 7127,
+            "win_rate": 41,
+            "draw_rate": 22,
+            "loss_rate": 37
+        },
+        "b4": {
+            "frequency": 4541,
+            "win_rate": 38,
+            "draw_rate": 19,
+            "loss_rate": 42
+        },
+        "a3": {
+            "frequency": 3070,
+            "win_rate": 50,
+            "draw_rate": 15,
+            "loss_rate": 35
+        },
+        "e3": {
+            "frequency": 2305,
+            "win_rate": 37,
+            "draw_rate": 18,
+            "loss_rate": 45
+        },
+        "d3": {
+            "frequency": 2170,
+            "win_rate": 38,
+            "draw_rate": 20,
+            "loss_rate": 42
+        },
+        "g4": {
+            "frequency": 1522,
+            "win_rate": 46,
+            "draw_rate": 11,
+            "loss_rate": 43
+        },
+        "c3": {
+            "frequency": 935,
+            "win_rate": 40,
+            "draw_rate": 20,
+            "loss_rate": 40
+        },
+        "h4": {
+            "frequency": 898,
+            "win_rate": 56,
+            "draw_rate": 0,
+            "loss_rate": 35
+        },
+        "h3": {
+            "frequency": 528,
+            "win_rate": 50,
+            "draw_rate": 13,
+            "loss_rate": 37
+        },
+        "a4": {
+            "frequency": 291,
+            "win_rate": 58,
+            "draw_rate": 10,
+            "loss_rate": 31
+        },
+        "Nh3": {
+            "frequency": 201,
+            "win_rate": 52,
+            "draw_rate": 15,
+            "loss_rate": 33
+        },
+        "f3": {
+            "frequency": 169,
+            "win_rate": 44,
+            "draw_rate": 0,
+            "loss_rate": 46
+        },
+        "Na3": {
+            "frequency": 1,
+            "win_rate": 0,
+            "draw_rate": 0,
+            "loss_rate": 100
+        }
+    }
+}
